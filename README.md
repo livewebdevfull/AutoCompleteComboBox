@@ -17,7 +17,7 @@ The goal of this first phase is to implement the above component:
 - [x] has no lintint errors (`yarn prettier && yarn lint && yarn typescript`)
 - [x] has an ergonomic API
 
-## Work environment
+### Work environment
 - clone the repo: `git clone git@github.com:mui/react-technical-challenge.git`
 - install the dependencies: `yarn`
 - start Next.js: `yarn start`
